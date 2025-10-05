@@ -1,0 +1,10 @@
+{
+  "name": "house-price-filter",
+  "version": "1.0.0",
+  "description": "Lab 3 JS - Variant 3",
+  "type": "module",
+  "main": "main.js",
+  "dependencies": {
+    "commander": "^11.0.0"
+  }
+}
