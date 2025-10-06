@@ -1,10 +1,23 @@
 {
-  "name": "house-price-filter",
+  "name": "backend-course-2025-3",
   "version": "1.0.0",
-  "description": "Lab 3 JS - Variant 3",
-  "type": "module",
+  "description": "",
   "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yaroslav1274/backend-course-2025-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yaroslav1274/backend-course-2025-3/issues"
+  },
+  "homepage": "https://github.com/yaroslav1274/backend-course-2025-3#readme",
   "dependencies": {
-    "commander": "^11.0.0"
+    "commander": "^14.0.1"
   }
 }
